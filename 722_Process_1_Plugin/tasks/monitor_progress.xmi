@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EEOBfKL-59QJUUjz0G7Hmg" name=",_saiioDC6EemRxcCHipfEmA" guid="-EEOBfKL-59QJUUjz0G7Hmg">
+  <keyConsiderations>1. This step can begin as soon as the initial task, schedule and assign tasks, is completed. 2. This step persists&#xD;
+throughout the duration of this process. For the purposes of this example, assume that this task ends (1) when the unit&#xD;
+testing has been successfully completed, or (2) after notifying personnel of cancellation by the CCB.</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

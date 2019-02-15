@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1b-G7qpnEK_b3zXagUIbLA" name=",_8vyMYDCyEemRxcCHipfEmA" guid="-1b-G7qpnEK_b3zXagUIbLA" changeDate="2019-02-14T19:06:24.031-0500">
+  <keyConsiderations>&lt;p>&#xD;
+    This task can begin as soon as authorization to make the change has been granted by the CCB.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This task ends when the unit testing has been successfully completed, or when the CCB cancels the change effort.&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

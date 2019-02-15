@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fElJXg3Bc5pWACU7ExGRrg" name=",_UZiAsDC6EemRxcCHipfEmA" guid="-fElJXg3Bc5pWACU7ExGRrg" changeDate="2019-02-14T19:43:07.530-0500">
+  <mainDescription>Each instance of the execution of a set of unit tests upon an instance of the code is recorded in the unit test history&#xD;
+file. This includes identification of the unit test package version and object code version used, along with the timestamp&#xD;
+of the test execution, indication of tests failed, and the coverage level attained. Note the possibility that, over time,&#xD;
+multiple unit test package versions may be applied to a given object code version, and vice versa.</mainDescription>
+  <keyConsiderations>1. This step can begin as soon as both the object code and unit test package are available. 2. This step ends when its&#xD;
+outputs have been provided; assume that all outputs are produced simultaneously.</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

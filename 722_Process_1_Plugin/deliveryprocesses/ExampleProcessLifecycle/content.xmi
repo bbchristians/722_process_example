@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-t5p0S17Ik1ORr4TxTAQ3aA" name="ExampleProcessLifecycle,__EgeQTFFEemdH4l1Ypk0hA" guid="-t5p0S17Ik1ORr4TxTAQ3aA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8u4xx3-ygc5_B7PLHQBweA" name="schedule_and_assign_tasks,_HbYUgDFEEemdH4l1Ypk0hA" guid="-8u4xx3-ygc5_B7PLHQBweA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Z7pKVSMEEbH29Ioin8k5Vg" name="authorization,_L_ex0TFEEemdH4l1Ypk0hA" guid="-Z7pKVSMEEbH29Ioin8k5Vg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mUqM_mKMOAij_hM17f76fQ" name="requirements_change,_L_ex1DFEEemdH4l1Ypk0hA" guid="-mUqM_mKMOAij_hM17f76fQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-avRfUCQ9tTWYrjnhKgSBVA" name="modify_test_plans,_do770DFEEemdH4l1Ypk0hA" guid="-avRfUCQ9tTWYrjnhKgSBVA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LedIsslvy3IToKA5iLN8MA" name="modify_unit_test_package,_j-4xQDFEEemdH4l1Ypk0hA" guid="-LedIsslvy3IToKA5iLN8MA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HbI95cgjl3cbpA5joVaEaw" name="modified_unit_test_package,_nM_sCzFEEemdH4l1Ypk0hA" guid="-HbI95cgjl3cbpA5joVaEaw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cz83juQrTJwC9gDMtdA-Vw" name="test_unit,_n5Y38DFEEemdH4l1Ypk0hA" guid="-cz83juQrTJwC9gDMtdA-Vw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LzVHwZoowQh9J83uyj5dqg" name="modify_design,_SUa6oDFEEemdH4l1Ypk0hA" guid="-LzVHwZoowQh9J83uyj5dqg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YqgWouIy4d0-W8e_gM8CkA" name="review_design,_UWWWIDFEEemdH4l1Ypk0hA" guid="-YqgWouIy4d0-W8e_gM8CkA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xThdaYr5F9QcrXh3lgdVGQ" name="modify_code,_XQGxgDFEEemdH4l1Ypk0hA" guid="-xThdaYr5F9QcrXh3lgdVGQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QyoJMqc3bL2q63vTqwc16g" name="monitor_progress,_zDeAMDFDEemdH4l1Ypk0hA" guid="-QyoJMqc3bL2q63vTqwc16g"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-_JzTJkwl_7wi9NYsLH2eXA" name="Develop Change and Test Unit,_4kz-UTFCEemdH4l1Ypk0hA" guid="-_JzTJkwl_7wi9NYsLH2eXA"/>
+</xmi:XMI>

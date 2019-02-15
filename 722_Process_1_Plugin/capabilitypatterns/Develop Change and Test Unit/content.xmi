@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-UnO7qBng9m-NmZzvaLB2pw" name="Develop Change and Test Unit,_4kz-UTFCEemdH4l1Ypk0hA" guid="-UnO7qBng9m-NmZzvaLB2pw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ERPO_W27gdoLgBMhoYyGuA" name="monitor_progress,_zDeAMDFDEemdH4l1Ypk0hA" guid="-ERPO_W27gdoLgBMhoYyGuA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lvEWjiXookKVPz4C9EblJw" name="schedule_and_assign_tasks,_HbYUgDFEEemdH4l1Ypk0hA" guid="-lvEWjiXookKVPz4C9EblJw">
+    <keyConsiderations>&lt;p>&#xD;
+    This task can begin as soon as authorization to make the change has been granted by the CCB.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    This step ends when its outputs have been provided; assume that all outputs are produces simultaneously.&#xD;
+&lt;/p></keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-iYwctMZ7f9KBBBGsJrY7pg" name="authorization,_L_ex0TFEEemdH4l1Ypk0hA" guid="-iYwctMZ7f9KBBBGsJrY7pg">
+    <keyConsiderations>From CCB</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FQotodcmgoL2MBoeNFiUow" name="requirements_change,_L_ex1DFEEemdH4l1Ypk0hA" guid="-FQotodcmgoL2MBoeNFiUow">
+    <keyConsiderations>From CCB to Everyone</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-bKura0mHVz2AlBd81Kt5-g" name="modify_design,_SUa6oDFEEemdH4l1Ypk0hA" guid="-bKura0mHVz2AlBd81Kt5-g">
+    <keyConsiderations>&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 180px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 572px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.903664)&quot;&#xD;
+ data-canvas-width=&quot;17.766016666666662&quot;>&#xD;
+    1.&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 196px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.997384)&quot;&#xD;
+ data-canvas-width=&quot;73.69149999999999&quot;>&#xD;
+    This step&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 21px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 268px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 571px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.88281)&quot;&#xD;
+ data-canvas-width=&quot;30.361239999999995&quot;>&#xD;
+    can&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 298px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.00013)&quot;&#xD;
+ data-canvas-width=&quot;46.967999999999996&quot;>&#xD;
+    begin&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 21px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 344px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 571px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.842078)&quot;&#xD;
+ data-canvas-width=&quot;19.607499999999995&quot;>&#xD;
+    as&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 20px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 364px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 571px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.884691)&quot;&#xD;
+ data-canvas-width=&quot;39.42066666666666&quot;>&#xD;
+    soon&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 404px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.96482)&quot;&#xD;
+ data-canvas-width=&quot;46.83147999999999&quot;>&#xD;
+    as the&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 450px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.974888)&quot;&#xD;
+ data-canvas-width=&quot;171.80693&quot;>&#xD;
+    task has been assigned&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 620px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.952)&quot;&#xD;
+ data-canvas-width=&quot;22.609999999999996&quot;>&#xD;
+    by&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 643px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.00022)&quot;&#xD;
+ data-canvas-width=&quot;27.967999999999996&quot;>&#xD;
+    the&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 670px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.983606)&quot;&#xD;
+ data-canvas-width=&quot;129.20437&quot;>&#xD;
+    project manager.&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 178px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.04386)&quot;&#xD;
+ data-canvas-width=&quot;19.833333333333332&quot;>&#xD;
+    2.&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 196px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.986059)&quot;&#xD;
+ data-canvas-width=&quot;165.4691&quot;>&#xD;
+    Subsequent iterations&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 360px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.975737)&quot;&#xD;
+ data-canvas-width=&quot;30.361239999999995&quot;>&#xD;
+    can&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 390px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.00013)&quot;&#xD;
+ data-canvas-width=&quot;46.967999999999996&quot;>&#xD;
+    begin&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 437px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.944592)&quot;&#xD;
+ data-canvas-width=&quot;19.436999999999998&quot;>&#xD;
+    as&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 457px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.976528)&quot;&#xD;
+ data-canvas-width=&quot;39.69005&quot;>&#xD;
+    soon&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 497px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.916863)&quot;&#xD;
+ data-canvas-width=&quot;18.866429999999998&quot;>&#xD;
+    as&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 517px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.977352)&quot;&#xD;
+ data-canvas-width=&quot;135.61858&quot;>&#xD;
+    the design review&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 653px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.970921)&quot;&#xD;
+ data-canvas-width=&quot;98.3626&quot;>&#xD;
+    is completed&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 752px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.98744)&quot;&#xD;
+ data-canvas-width=&quot;132.85939999999997&quot;>&#xD;
+    (when the design&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 178px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 644px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.989389)&quot;&#xD;
+ data-canvas-width=&quot;18.956666666666663&quot;>&#xD;
+    3.&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 196px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 644px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.990726)&quot;&#xD;
+ data-canvas-width=&quot;112.40969999999999&quot;>&#xD;
+    This step ends&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 306px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 644px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.979278)&quot;&#xD;
+ data-canvas-width=&quot;44.953050000000005&quot;>&#xD;
+    when&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 18px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 351px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 645px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.01887)&quot;&#xD;
+ data-canvas-width=&quot;22.107499999999998&quot;>&#xD;
+    its&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 373px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 644px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.00012)&quot;&#xD;
+ data-canvas-width=&quot;53.314&quot;>&#xD;
+    output&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 180px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 572px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.903664)&quot;&#xD;
+ data-canvas-width=&quot;17.766016666666662&quot;>&#xD;
+    1.&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 196px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.997384)&quot;&#xD;
+ data-canvas-width=&quot;73.69149999999999&quot;>&#xD;
+    This step&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 21px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 268px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 571px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.88281)&quot;&#xD;
+ data-canvas-width=&quot;30.361239999999995&quot;>&#xD;
+    can&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 298px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.00013)&quot;&#xD;
+ data-canvas-width=&quot;46.967999999999996&quot;>&#xD;
+    begin&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 21px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 344px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 571px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.842078)&quot;&#xD;
+ data-canvas-width=&quot;19.607499999999995&quot;>&#xD;
+    as&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 20px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 364px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 571px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.884691)&quot;&#xD;
+ data-canvas-width=&quot;39.42066666666666&quot;>&#xD;
+    soon&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 404px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.96482)&quot;&#xD;
+ data-canvas-width=&quot;46.83147999999999&quot;>&#xD;
+    as the&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 450px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.974888)&quot;&#xD;
+ data-canvas-width=&quot;171.80693&quot;>&#xD;
+    task has been assigned&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 620px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.952)&quot;&#xD;
+ data-canvas-width=&quot;22.609999999999996&quot;>&#xD;
+    by&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 643px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.00022)&quot;&#xD;
+ data-canvas-width=&quot;27.967999999999996&quot;>&#xD;
+    the&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 670px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 573px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.983606)&quot;&#xD;
+ data-canvas-width=&quot;129.20437&quot;>&#xD;
+    project manager.&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 178px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.04386)&quot;&#xD;
+ data-canvas-width=&quot;19.833333333333332&quot;>&#xD;
+    2.&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 196px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.986059)&quot;&#xD;
+ data-canvas-width=&quot;165.4691&quot;>&#xD;
+    Subsequent iterations&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 360px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.975737)&quot;&#xD;
+ data-canvas-width=&quot;30.361239999999995&quot;>&#xD;
+    can&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 390px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.00013)&quot;&#xD;
+ data-canvas-width=&quot;46.967999999999996&quot;>&#xD;
+    begin&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 437px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.944592)&quot;&#xD;
+ data-canvas-width=&quot;19.436999999999998&quot;>&#xD;
+    as&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 457px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.976528)&quot;&#xD;
+ data-canvas-width=&quot;39.69005&quot;>&#xD;
+    soon&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 497px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.916863)&quot;&#xD;
+ data-canvas-width=&quot;18.866429999999998&quot;>&#xD;
+    as&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 517px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.977352)&quot;&#xD;
+ data-canvas-width=&quot;135.61858&quot;>&#xD;
+    the design review&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 653px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.970921)&quot;&#xD;
+ data-canvas-width=&quot;98.3626&quot;>&#xD;
+    is completed&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 752px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 599px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.98744)&quot;&#xD;
+ data-canvas-width=&quot;132.85939999999997&quot;>&#xD;
+    (when the design&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 178px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 644px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.989389)&quot;&#xD;
+ data-canvas-width=&quot;18.956666666666663&quot;>&#xD;
+    3.&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 196px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 644px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.990726)&quot;&#xD;
+ data-canvas-width=&quot;112.40969999999999&quot;>&#xD;
+    This step ends&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 306px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 644px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.979278)&quot;&#xD;
+ data-canvas-width=&quot;44.953050000000005&quot;>&#xD;
+    when&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 18px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 351px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 645px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.01887)&quot;&#xD;
+ data-canvas-width=&quot;22.107499999999998&quot;>&#xD;
+    its&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 373px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 644px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(1.00012)&quot;&#xD;
+ data-canvas-width=&quot;53.314&quot;>&#xD;
+    output&#xD;
+&lt;/div>&#xD;
+&lt;div&#xD;
+style=&quot;FONT-SIZE: 19px; CURSOR: text; FONT-FAMILY: serif; WHITE-SPACE: pre; WORD-SPACING: 0px; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: transparent; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 424px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; TOP: 644px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; transform: scaleX(0.971194)&quot;&#xD;
+ data-canvas-width=&quot;143.47679&quot;>&#xD;
+    has been provided.&#xD;
+&lt;/div>&#xD;
+1. This step can begin as soon as the task has been assigned by the project manager. &lt;br />&#xD;
+2. Subsequent iterations can begin as soon as the design review is completed (when the design is not approved)&lt;br />&#xD;
+3. This step ends when its output has been provided</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Yw--pOnG2_jJ9Gc2eUqldg" name="review_design,_UWWWIDFEEemdH4l1Ypk0hA" guid="-Yw--pOnG2_jJ9Gc2eUqldg">
+    <keyConsiderations>1. This step will be carried out when it is scheduled to occur, provided that the modified&lt;br />&#xD;
+design is available at that time. (Note that in cases of delay, the monitor progress step will&lt;br />&#xD;
+reschedule the review to a later date.)&lt;br />&#xD;
+2. This step ends when its outputs have been provided; assume that all outputs are produced&lt;br />&#xD;
+simultaneously</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-04F4z-ACP6MP4fQPggBtJQ" name="modify_code,_XQGxgDFEEemdH4l1Ypk0hA" guid="-04F4z-ACP6MP4fQPggBtJQ">
+    <keyConsiderations>1. This step can begin as soon as the task has been assigned by the project manager. (Thus, it&lt;br />&#xD;
+is possible, if not advisable, to begin coding before the design work has even begun.) The&lt;br />&#xD;
+engineer’s discretion determines when this task will actually commence, if the design has&lt;br />&#xD;
+not yet been approved. If this step has not commenced earlier, it will begin when the design&lt;br />&#xD;
+is approved.&lt;br />&#xD;
+One&lt;br />&#xD;
+consequence is that this step cannot be completed before the modified design has been&lt;br />&#xD;
+approved.&lt;br />&#xD;
+3. This step ends when a clean compilation (no errors) has been accomplished and its output&lt;br />&#xD;
+has been provided.&lt;br />&#xD;
+4. Subsequent iterations (if required) can begin as soon as the test unit step has completed.</keyConsiderations>
+    <refinedDescription>This step deals with a set of objects (entities) whose attributes and interrelationships need to be&lt;br />&#xD;
+recorded. Both source and object code are under automated configuration management. The latest&lt;br />&#xD;
+vcrsion of the software unit’s source code provides the starting point for modification during this process step. Upon&#xD;
+successful compilation, a new version of the unit’s source code is recorded, along with its&lt;br />&#xD;
+corresponding object code. In addition, these must be related to the modified design upon which they are&lt;br />&#xD;
+based.&lt;br />&#xD;
+Source code information includes the body, creation timestamp, version information, and engineer&lt;br />&#xD;
+responsible for this change. Object code information includes the body, target system, and creation&lt;br />&#xD;
+timestamp. Each source code instance can have multiple corresponding object code instances. Similarly&lt;br />&#xD;
+each design version can relate to multiple source code instances. For each successful compilation of a&lt;br />&#xD;
+given source code instance, it is important to record the timestamp, the compiler version used, all&lt;br />&#xD;
+compiler options selected (e.g., optimizer on, debugging on), any error or warning messages produced,&lt;br />&#xD;
+and listings and associated documentation such as memory maps.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ph3Va6l52q-o3gf1ThoGZg" name="modify_test_plans,_do770DFEEemdH4l1Ypk0hA" guid="-ph3Va6l52q-o3gf1ThoGZg">
+    <keyConsiderations>1. This step can begin as soon as the task has been assigned by the project manager. 2. This step ends when its output has&#xD;
+been provided.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lTqbpWqOMkdqfM0u62oR9A" name="modify_unit_test_package,_j-4xQDFEEemdH4l1Ypk0hA" guid="-lTqbpWqOMkdqfM0u62oR9A">
+    <refinedDescription>Each instance of the unit test package includes software, procedures, creation timestamp, version information, and engineer&#xD;
+responsible for this package instance.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CLyV30CHYDXgIOKm6rzRYw" name="modified_unit_test_package,_nM_sCzFEEemdH4l1Ypk0hA" guid="-CLyV30CHYDXgIOKm6rzRYw">
+    <keyConsiderations>1. This step can begin as soon as the modify test plans step has completed. 2. This step ends when its output has been&#xD;
+produced. 3. Subsequent iterations (if required) can begin as soon as the test unit step has completed.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PSzKfITa4zPyDzqkThDcFg" name="test_unit,_n5Y38DFEEemdH4l1Ypk0hA" guid="-PSzKfITa4zPyDzqkThDcFg">
+    <keyConsiderations>1. This step can begin as soon as both the object code and unit test package are available. 2. This step ends when its&#xD;
+outputs have been provided; assume that all outputs are produced simultaneously.</keyConsiderations>
+    <refinedDescription>Each instance of the execution of a set of unit tests upon an instance of the code is recorded in the unit test history&#xD;
+file. This includes identification of the unit test package version and object code version used, along with the timestamp&#xD;
+of the test execution, indication of tests failed, and the coverage level attained. Note the possibility that, over time,&#xD;
+multiple unit test package versions may be applied to a given object code version, and vice versa.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

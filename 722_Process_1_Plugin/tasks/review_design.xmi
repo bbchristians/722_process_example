@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-A2R9rC0dvBcwVak_zjyJ4g" name=",_kzpKEDC3EemRxcCHipfEmA" guid="-A2R9rC0dvBcwVak_zjyJ4g">
+  <keyConsiderations>1. This step will be carried out when it is scheduled to occur, provided that the modified&lt;br />&#xD;
+design is available at that time. (Note that in cases of delay, the monitor progress step will&lt;br />&#xD;
+reschedule the review to a later date.)&lt;br />&#xD;
+2. This step ends when its outputs have been provided; assume that all outputs are produced&lt;br />&#xD;
+simultaneously</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

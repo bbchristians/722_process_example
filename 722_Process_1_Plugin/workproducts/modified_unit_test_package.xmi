@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xA5z0fH1QzNbmZQRAbuhUA" name="new_outcome,_DGo8kDC6EemRxcCHipfEmA" guid="-xA5z0fH1QzNbmZQRAbuhUA" changeDate="2019-02-14T19:39:57.403-0500">
+  <keyConsiderations>1. This step can begin as soon as the modify test plans step has completed. 2. This step ends when its output has been&#xD;
+produced. 3. Subsequent iterations (if required) can begin as soon as the test unit step has completed.</keyConsiderations>
+</org.eclipse.epf.uma:WorkProductDescription>
